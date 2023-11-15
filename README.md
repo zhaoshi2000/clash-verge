@@ -1,4 +1,4 @@
-```plaintext
+
 <h1 align="center">
   < img src="./src/assets/image/logo.png" alt="Clash" width="128" />
   <br>
